@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱I'm currently learning JavaScript <br>💬Ask me about HTML, CSS, Java<br>📫How to reach Koterushi@gmail.com
+🌱I'm currently learning React <br>💬Ask me about HTML, CSS, Java, JavaScript<br>📫How to reach Koterushi@gmail.com
 
 
 # 💻 Tech Stack:
