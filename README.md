@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱I'm currently learning MongoDB <br>💬Ask me about HTML, CSS, Java, JavaScript, React, NodeJS<br>📫How to reach Koterushi@gmail.com
+🌱I'm currently learning MongoDB <br>💬Ask me about HTML, CSS, Java, JavaScript, React, NodeJS, MongoDB<br>📫How to reach Koterushi@gmail.com
 
 
 # 💻 Tech Stack:
